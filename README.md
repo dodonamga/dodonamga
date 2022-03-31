@@ -4,6 +4,11 @@
 ### Coding first started at the age of 23 and is still studying.
 ### I mainly study C# and Unity, Thank you.
 
+## SNS
+<img src="https://img.shields.io/badge/dodo.namga@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
+
+
+## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white"/>
@@ -11,7 +16,7 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=UnrealEngine&logoColor=white"/>
 
-
+## ✨ Activity
 
 
 <!--
