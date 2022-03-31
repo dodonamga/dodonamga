@@ -4,11 +4,15 @@
 ### Coding first started at the age of 23 and is still studying.
 ### I mainly study C# and Unity, Thank you.
 
-## SNS
+
+
+## ✉️ SNS
 <img src="https://img.shields.io/badge/dodo.namga@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
 <a href="https://www.instagram.com/n.0i24" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <a href="https://www.facebook.com/profile.php?id=100006477056859" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 
+  
+  
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
@@ -17,6 +21,8 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=UnrealEngine&logoColor=white"/>
 
+  
+  
 ## ✨ Activity
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahjin0845)](https://solved.ac/ahjin0845/)
 
