@@ -6,7 +6,8 @@
 
 ## SNS
 <img src="https://img.shields.io/badge/dodo.namga@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
-
+<a href="https://www.instagram.com/n.0i24" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.facebook.com/profile.php?id=100006477056859" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><a/>
