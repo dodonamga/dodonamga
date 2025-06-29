@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=939393&height=300&section=header&text=Welcome&fontSize=90&desc=Thanks%20for%20visit&descSize=20&descAlignY=65&descAlign=70)
-## Hi~ I'm dodo Gahyun 👋
-### I go to Cheongju University in South Korea and I am in my third year.
-### Coding first started at the age of 23 and is still studying.
-### I mainly study C# and Unity, Thank you.
 
 
 
